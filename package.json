@@ -13,6 +13,6 @@
     "node-fetch": "2.6.0",
     "https-proxy-agent": "5.0.1",
     "dotenv": "16.0.3",
-    "postgres": "3.3.4"
+    "postgres": "3.3.5"
   }
 }
